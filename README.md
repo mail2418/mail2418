@@ -20,3 +20,11 @@ I am Interested to be machine learning, android, and website developer.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mail2418&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+<a href="https://www.linkedin.com/in/muhammad-ismail-a0b636190/">
+  <img align="left" alt="Mael's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/mail2418/?hl=id">
+  <img align="left" alt="Mael's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
+</a>
