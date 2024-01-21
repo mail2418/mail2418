@@ -49,19 +49,11 @@
 </div>
 
 ## Github Statistic
-<p style="display:flex">
-  <img height="175em" style="margin-right:6px" src="https://streak-stats.demolab.com?user=mail2418&theme=solarized-light"/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=78538191&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-    <img alt="@mail2418's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=78538191&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-  </picture>
-</p>
-
 <p align="center">
 <!-- Copy-paste in your Readme.md file -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @mail2418" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=dark" width="100%" height="auto">
+    <img alt="Dashboard stats of @mail2418" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=light" width="100%" height="auto">
 </picture>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </p>
