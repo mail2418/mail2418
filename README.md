@@ -4,7 +4,7 @@ My name is **Muhammad Ismail**, you can call me **Mael**.
 
 I am a student of Informatics in Institut Teknologi Sepuluh Nopember.
 
-I am Interested to be machine learning, android, and website developer.
+I am Interested on machine learning, mobile, and website.
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://www.python.org/static/opengraph-icon-200x200.png" /></a>
   <a href="#"><img align="left" alt="C" title="C" width="21px" src="https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img,w_860/https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-C.png" /></a>
