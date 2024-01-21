@@ -55,6 +55,22 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=dark" width="100%" height="auto">
     <img alt="Dashboard stats of @mail2418" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78538191&image_size=auto&color_scheme=light" width="100%" height="auto">
 </picture>
+
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </p>
 
@@ -69,23 +85,3 @@
 <a href="https://www.instagram.com/mail2418/?hl=id">
   <img align="left" alt="Mael's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
-
-</br>
-</br> 
-
-## Github Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
