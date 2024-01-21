@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rokkitt&weight=500&size=50&pause=1000&color=B7F74B&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Web+Developer+Enthusiast;Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rokkitt&weight=500&size=40&pause=1000&color=B7F74B&center=true&vCenter=true&random=false&width=500&height=100&lines=Software+Engineer;Computer+Science+Student;Web+Developer+Enthusiast;Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmail2418&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=upper) [![GitHub followers](https://img.shields.io/github/followers/mail2418.svg?style=social&label=Follow)](https://github.com/mail2418?tab=followers)<br/>
