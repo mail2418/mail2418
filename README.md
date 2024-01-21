@@ -18,7 +18,7 @@
 
 - 🏫  I am a `final year student` at Informatics Engineer [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/informatika/id/beranda/).
 - 💻 I am a `Software` and `AI` Developer Enthusiast.
-- 📄 I am currently open for new job opportunity, here is my [Resume](https://drive.google.com/drive/u/0/folders/1KmMvDR9XOxoHmoqubMpb9LoZERf3Pn9l)
+- 📄 I am currently open for new job opportunity, here is my [Resume](https://drive.google.com/file/d/1eUsvfYuhaXxI-qGC-EuTvCBjlArh87_e/view?usp=share_link)
 <br>
 
 
