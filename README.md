@@ -12,14 +12,21 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmail2418&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=upper) [![GitHub followers](https://img.shields.io/github/followers/mail2418.svg?style=social&label=Follow)](https://github.com/mail2418?tab=followers)<br/>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🏫  I am a `final year student` at Informatics Engineer [Sepuluh Nopember Institute of Technology](https://www.its.ac.id/informatika/id/beranda/).
-- 💻 I am a `Software` and `AI` Developer Enthusiast.
-- 📄 I am currently open for new job opportunity, here is my [Resume](https://drive.google.com/file/d/1eUsvfYuhaXxI-qGC-EuTvCBjlArh87_e/view?usp=share_link)
-<br>
+Computer Science graduate from Institut Teknologi Sepuluh Nopember. Currently working on digitalization projects at Unilever while running IT consulting engagements focused on enterprise integration and government systems.
+
+I help organizations modernize their operations through:
+
+- **SAP Integration** — BTP middleware, AS2 protocols, IDoc transmission, PI/PO migrations
+
+- **Enterprise Applications** — NestJS/Next.js systems with role-based access control for government clients
+
+- **Data Analytics** — Power BI dashboards, SPC analysis, process optimization for manufacturing
+
+- **Automation** — Power Automate, Python pipelines replacing manual reporting
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack 
