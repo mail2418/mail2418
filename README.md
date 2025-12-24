@@ -22,8 +22,6 @@ I help organizations modernize their operations through:
 
 - **SAP Integration** — BTP middleware, AS2 protocols, IDoc transmission, PI/PO migrations
 
-- **Enterprise Applications** — NestJS/Next.js systems with role-based access control for government clients
-
 - **Data Analytics** — Power BI dashboards, SPC analysis, process optimization for manufacturing
 
 - **Automation** — Power Automate, Python pipelines replacing manual reporting
