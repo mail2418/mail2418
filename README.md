@@ -33,7 +33,7 @@ My work focuses on **bridging business, operations, and technology**, ensuring s
   Focus: AI, data systems, and applied research
 
 - 🏢 **Data Intelligence** — *Astra International Tbk* (2024)  
-  Focus: manufacturing systems, enterprise workflows, industrial IT
+  Focus: data analytics, enterprise workflows, data pipeline
 
 - 🌍 **Project Factory Digitalization** — *Unilever Indonesia* (2025)  
   Focus: factory digitalization, process optimization, enterprise integration
