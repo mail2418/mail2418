@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rokkitt&weight=500&size=40&pause=1000&color=B7F74B&center=true&vCenter=true&random=false&width=500&height=100&lines=Software+Engineer;Computer+Science+Student;Web+Development+Enthusiast;Machine+Learning+Enthusiast;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rokkitt&weight=500&size=30&pause=1000&color=B7F74B&center=true&vCenter=true&random=false&width=500&height=100&lines=Software+Engineer+%7C+System+Analyst;Manufacturing+Digital+Transformation;Enterprise+Architecture+%7C+AI+Systems;Turning+Factory+Problems+into+Scalable+Solutions;" alt="Typing SVG" /></a>
 </p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmail2418&labelColor=%2337d67a&countColor=%232ccce4&style=flat&labelStyle=upper) [![GitHub followers](https://img.shields.io/github/followers/mail2418.svg?style=social&label=Follow)](https://github.com/mail2418?tab=followers)<br/>
@@ -16,16 +16,56 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Computer Science graduate from Institut Teknologi Sepuluh Nopember. Currently working on digitalization projects at Unilever while running IT consulting engagements focused on enterprise integration and government systems.
+I'm a **Software Engineer & System Analyst** specializing in **manufacturing and industrial digital transformation** — from **software architecture** and **enterprise architecture** to **AI-enabled factory systems**.
 
-I help organizations modernize their operations through:
+My work focuses on **bridging business, operations, and technology**, ensuring systems are:
+- scalable
+- maintainable
+- reliable
+- operational excellence
+- aligned with enterprise governance
 
-- **SAP Integration** — BTP middleware, AS2 protocols, IDoc transmission, PI/PO migrations
+---
 
-- **Data Analytics** — Power BI dashboards, SPC analysis, process optimization for manufacturing
+## 🏭 Professional Background
 
-- **Automation** — Power Automate, Python pipelines replacing manual reporting
+- 🎓 **Research Assistant** — *Department of Informatics, ITS* (2022)  
+  Focus: AI, data systems, and applied research
 
+- 🏢 **Data Intelligence** — *Astra International Tbk* (2024)  
+  Focus: manufacturing systems, enterprise workflows, industrial IT
+
+- 🌍 **Project Factory Digitalization** — *Unilever Indonesia* (2025)  
+  Focus: factory digitalization, process optimization, enterprise integration
+
+---
+
+## 🧠 Core Expertise
+
+### 🧩 Architecture & Governance
+- Software Architecture
+- Enterprise Architecture (TOGAF)
+- IT Governance (COBIT, ITSM)
+- SAP-centric enterprise environments
+
+### 🏭 Manufacturing Digital Transformation
+- Factory system integration
+- AI-assisted decision systems
+- Process optimization (Lean Six Sigma)
+- Operational analytics & automation
+
+### 🤖 AI & Data Systems
+- Computer Vision (YOLO, OpenCV)
+- AI inference pipelines (edge & server)
+- Data pipelines & analytics
+- RAG / knowledge systems for enterprise use
+
+### ⚙️ Engineering & Delivery
+- Cloud & on-prem hybrid systems
+- CI/CD & containerized services
+- Project Management: Agile & Waterfall
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Tech Stack 
 <div align="center">
@@ -79,9 +119,11 @@ I help organizations modernize their operations through:
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </p>
 
-## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="70px"/>Github Trophy
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mail2418&theme=juicyfresh)](https://github.com/mail2418/github-profile-trophy)
-  
+## 🧠 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mail2418?theme=light&font=JetBrains%20Mono&ext=activity" />
+</p>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Reach me on
 
 <a href="https://www.linkedin.com/in/muhammad-ismail-a0b636190/">
