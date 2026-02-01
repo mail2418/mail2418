@@ -122,13 +122,14 @@ My work focuses on **bridging business, operations, and technology**, ensuring s
 ## 🧠 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mail2418?theme=light&font=JetBrains%20Mono&ext=activity" />
+  <img src="https://leetcard.jacoblin.cool/mail2418?ext=heatmap&width=1000&height=400" />
 </p>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> Reach me on
 
 <a href="https://www.linkedin.com/in/muhammad-ismail-a0b636190/">
   <img align="left" alt="Mael's LinkedIn" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/mail2418/?hl=id">
+<a href="https://www.instagram.com/mmail0902/?hl=id">
   <img align="left" alt="Mael's Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
